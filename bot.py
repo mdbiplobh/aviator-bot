@@ -17,7 +17,7 @@ chrome_options.add_argument("--disable-dev-shm-usage")
 
 driver = webdriver.Chrome(options=chrome_options)
 
-url = "https://example.com/aviator"  # Target website URL
+url = "https://www.gk222.io/m/home"  # Target website URL
 driver.get(url)
 
 print("Bot runs successfully...")
